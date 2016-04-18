@@ -1,0 +1,22 @@
+{
+  "name": "myTodo",
+  "version": "0.0.0",
+  "description": "Todo example in Redux documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "reactjs",
+    "redux"
+  ],
+  "author": "Nouran Mahmoud",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "redux": "~3.4.0",
+    "react": "~15.0.1",
+    "react-redux": "~4.4.5",
+    "react-dom": "~15.0.1",
+    "redux-logger": "~2.6.1"
+  }
+}
